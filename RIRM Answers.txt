@@ -1,0 +1,5 @@
+Answers
+A). Retrieving all executed command
+B). ls -a   # All
+C). Confortable in Ubuntu
+D). Using Nginx
