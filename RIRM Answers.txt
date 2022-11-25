@@ -1,5 +1,5 @@
 Answers
-A). Retrieving all executed command
+A). Retrieving/Searching all executed command
 B). ls -a   # All
 C). Confortable in Ubuntu
 D). Using Nginx
